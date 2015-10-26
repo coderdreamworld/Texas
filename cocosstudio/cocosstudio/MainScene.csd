@@ -22,6 +22,19 @@
             <PreSize X="0.0000" Y="0.0000" />
             <FileData Type="Normal" Path="HelloWorld.png" />
           </NodeObjectData>
+          <NodeObjectData Name="btnClose" ActionTag="-813020678" FrameEvent="" Tag="5" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="920.0000" BottomMargin="600.0000" TouchEnable="True" FontSize="14" ButtonText="" Scale9Enable="True" Scale9Width="40" Scale9Height="40" ctype="ButtonObjectData">
+            <Position X="960.0000" Y="640.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <AnchorPoint ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <Size X="40.0000" Y="40.0000" />
+            <PrePosition X="1.0000" Y="1.0000" />
+            <PreSize X="0.0417" Y="0.0625" />
+            <TextColor A="255" R="65" G="65" B="70" />
+            <DisabledFileData Type="Normal" Path="CloseNormal.png" />
+            <PressedFileData Type="Normal" Path="CloseSelected.png" />
+            <NormalFileData Type="Normal" Path="CloseNormal.png" />
+          </NodeObjectData>
         </Children>
       </ObjectData>
     </Content>
